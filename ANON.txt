@@ -1,0 +1,38 @@
+User Table
+- Name
+- Username
+- Set a Profile Picture
+- Messages_Table
+
+Anonymous Messages
+- id
+- Message
+- message type
+- Country
+- City
+- date and  time sent
+- device
+- IP address
+- User ID possibly NULL
+- Time Sent
+- Network Carrier
+
+
+Me Requesting for questions..
+- Pick from a variety of options 
+1. send me anonymous messages!
+2. Send me anonymous confessions
+3. Describe me in 3 words, anonymously
+4. Send me a never have i ever, anonymously
+
+Question ASKER interface
+Text field
+Question Randomizer
+Vibrant and Interactive UI
+Hint: Give the question receiver a hint on who you are
+
+
+SETTINGS
+1. Have the ability to pause recieving messages
+2. Delete Account
+3. Check who sent this
